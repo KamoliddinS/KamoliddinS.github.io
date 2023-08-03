@@ -10,7 +10,6 @@
 ## Features
 
 ⚡️ Modern UI Design + Reveal Animations\
-?dk
 ⚡️ One Page Layout\
 ⚡️ Styled with Bootstrap v4.3 + Custom SCSS\
 ⚡️ Fully Responsive\
